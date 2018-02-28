@@ -75,4 +75,4 @@ if __name__ == '__main__':
     for ticker in tickers:
         save_ticker(connection, ticker)
     
-    print('Tickers almacenados')
+    #print('Tickers almacenados')
